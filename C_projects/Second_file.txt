@@ -1,0 +1,3 @@
+Hello
+this is my first file!
+ne znam zasto nece da otvori prvi file
